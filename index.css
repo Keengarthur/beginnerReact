@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+body{
+    margin:0;
+    padding:1rem;
+    box-sizing:border-box;
+    text-decoration:none;
+    background:orangered;
+    text-align: center;
+
+}
+
+
+.container{
+    background:white;
+    padding:2rem;
+    width:60%;
+    margin:0 auto;
+    
+}
+button{
+    background:rgb(233, 11, 48);
+    border:none;
+    width:10rem;
+    padding:1rem;
+    cursor:pointer;
+}
+img{
+    width:3rem;
+    border-radius: 50%;
+}
+.article{
+    display:flex;
+    margin-bottom: 2rem;;
+}
+div{
+    align-items: left;
+    padding-left: 1rem;
+}
+
+.user{
+    margin-bottom: 3rem;
+}
